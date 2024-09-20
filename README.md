@@ -36,3 +36,13 @@
 
 </p>
 
+
+Проекты
+
+| Название          | Описание                                               | Технологии |
+|-------------------|-------------------------------------------------------|-------------|
+| [TodoTracker](https://github.com/IgoshinSergey/TodoTracker)       | Веб-приложение для создания, редактирования и отслеживания своих задач | Python, FastAPI, Alembic, SQLAlchemy, Redis, Nginx, Docker |
+| [BrickGame_v3.0](https://github.com/IgoshinSergey/BrickGame_v3.0)    | Реализация серии игр (Тетрис, Змейка, Гонки) | Python, C++, C, HTML, CSS, JS, FastAPI, Qt, ncurses |
+| [3D_Viewer](https://github.com/IgoshinSergey/3D_Viewer)         | Реализация приложения для просмотра 3D моделей       | C++, OpenGL, Qt |
+| [Maze](https://github.com/IgoshinSergey/Maze)              | Генерация, отрисовка, поиск решения лабиринтов       | C++, Qt |
+| [SmartCalc_v1.0](https://github.com/IgoshinSergey/SmartCalc_v1.0)    | Реализация расширенной версии обычного калькулятора   | C, Qt |
