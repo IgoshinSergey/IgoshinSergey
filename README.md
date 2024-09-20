@@ -7,7 +7,7 @@
 
 ------------------------
 
-#### Языки программирования
+### Языки программирования
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="36" height="36" alt="Linux" />
@@ -16,14 +16,14 @@
 
 </p>
 
-#### IDE
+### IDE
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"  width="36" height="36" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="36" height="36" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="36" height="36" alt="Linux" />
 </p>
 
-#### Технологии
+### Технологии
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  width="36" height="36" alt="Linux"/>
@@ -37,7 +37,7 @@
 </p>
 
 
-Проекты
+### Проекты
 
 | Название          | Описание                                               | Технологии |
 |-------------------|-------------------------------------------------------|-------------|
